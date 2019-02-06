@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Github**: [ipfs](https://github.com/ipfs/go-ipfs)
+**Github**: [ipfs](https://github.com/hanqinxun)
 
-**E-mail**: flexie@foxmail.com
+**E-mail**: 1585364886@qq.com
